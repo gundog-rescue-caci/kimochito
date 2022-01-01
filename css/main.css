@@ -62,8 +62,8 @@ desc {
     /*　【タブレット用】　画面サイズが768px以上だったらここを読み込む　*/
     div.container-mtt {
         margin-top: 40px;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
 
