@@ -52,8 +52,8 @@ desc {
     /*　【スマホ用】　画面サイズが480px以上だったらここを読み込む　*/
     div.container-mtt {
         margin-top: 40px;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
 
