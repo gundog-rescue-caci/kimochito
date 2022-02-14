@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="utf-8">
+    <title>GUNDOG RESCUE CACI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="img/logo.gif">
+</head>
+
+<body>
+    <!-- nav_bar -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <!-- nav_bar_img -->
+                <img src="img/logo.gif" alt="#" width="30" height="30" class="d-inline-block align-top">
+                GUNDOG RESCUE CACI</a>
+            <!--<button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>-->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="navbar-brand" href="https://www.facebook.com/cacidog">
+                            <!-- nav_bar_img -->
+                            <img src="https://icongr.am/entypo/facebook.svg?size=128&color=currentColor" alt="#" width="30" height="30" class="d-inline-block align-top">
+                        </a></li>
+                    <li class="nav-item">
+                        <a class="navbar-brand" href="https://www.instagram.com/gundogrescuecaci/">
+                            <!-- nav_bar_img -->
+                            <img src="https://icongr.am/entypo/instagram.svg?size=128&color=currentColor" alt="#" width="30" height="30" class="d-inline-block align-top">
+                        </a></li>
+                    <li class="nav-item">
+                        <a class="navbar-brand" href="http://caci.blog.jp/">
+                            <!-- nav_bar_img -->
+                            <img src="https://icongr.am/entypo/news.svg?size=128&color=currentColor" alt="#" width="30" height="30" class="d-inline-block align-top">
+                        </a></li>
+                </ul>
+                <!--<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#001">キャンペーン概要</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#002">みなさまのご支援でできること</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#003">よくあるご質問</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page"
+                            href="https://www.bookoffonline.co.jp/sellfund/BSfSellFundEntry.jsp?PARTNER_CD=ZW053#fundForm"
+                            rel="noopener noreferrer" target="_blank">無料集荷を申し込んで参加!</a>
+                    </li>
+                </ul>-->
+
+            </div>
+        </div>
+    </nav>
+    <!-- main_pic -->
+    <div class="container-m img-hidden">
+        <img class="d-block mx-auto img-fluid" src="img/back.jpg" alt="サンプル画像" style="opacity: 0.7;">
+        <div class="card-img-overlay">
+            <h1><strong>使い捨てにされた鳥猟犬を新しい家庭へ繋ぎたい!</strong></h1>
+            <p style="margin:30px;">
+                遺棄された鳥猟犬保護活動をご自宅からできるご協力にご参加ください<br>
+                ２月１日からキャンペーン開始!<br>
+                ご自宅の不要品が寄付へと変わります。<br>
+            </p>
+            <a type="button" class="btn btn-outline-dark"
+                href="https://www.bookoffonline.co.jp/sellfund/BSfSellFundEntry.jsp?PARTNER_CD=ZW053#fundForm"
+                rel="noopener noreferrer" target="_blank">
+                無料集荷を申し込んで参加!</a>
+        </div>
+    </div>
+
+    <!-- main_comtent -->
+    <div class="container-mtt">
+        <div class="row">
+            <div class="col-md-4">
+                <img src="img/005.png" alt="img" width="100%">
+            </div>
+            <div class="col-md-8">
+                <p style="margin-top: 0px;">
+                    CACIでは、<strong>不要になった本やCD・DVD、ゲームなど</strong>を寄付することで、「使い捨てにされた鳥猟犬を新しい家庭へ繋げられます!」キャンペーンを実施しています。<br><br>
+                    本キャンペーンでは、ブックオフコーポレーション株式会社と提携。皆さまに送っていただく<strong>ご不要品の買取査定</strong>を行ったあと、その全額がCACIに寄付され、<strong>鳥猟犬救済の支援</strong>に充てられます。<br>
+                    なお、本キャンペーン期間中のお申込みで査定額が<strong>10％アップ</strong>されます!<br>
+                    本だけでなく、様々なものが買取の対象になります。大掃除やお部屋の整理などで出てきた不要品で、ぜひご協力ください。</p>
+            </div>
+        </div>
+
+        <div class="row" style="margin-top:30px">
+            <div class="col-md-4">
+                <img src="img/007.jpg" alt="img" width="100%">
+            </div>
+            <div class="col-md-8">
+                <h2 class="p">鳥猟犬とは</h2>
+                <p style="margin-top: 0px;">
+                    獲物を仕留めるのではなくハンターのパートナーとして、鳥の居場所を知らせ飛び立たせることが仕事です。<br>
+人との共同作業が大好きで、指示を待つことができる我慢強さと、攻撃性の低さも鳥猟犬の特徴です。鳥を射ち落とす猟銃（ガン）を使用するため、別名「GUNDOG」とも呼ばれています。
+                    </p>
+                </div>
+        </div>
+
+        <h2 class="p" style="text-align:center; margin-top:30px">鳥猟犬（ガンドッグ）は、種類ごとに分類されてます</h2>
+        <div class="row justify-content-around">
+            <div class="card" style="width: 18rem;">
+                <img src="img/008.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">セッター</h5>
+                    <p class="card-text" style="text-align: center;">鳥を見つけると低い姿勢で、ハンターに知らせます。</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="img/009.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">ポインター</h5>
+                    <p class="card-text" style="text-align: center;">鳥を見つけると前足を曲げて、ここにいる(ポイント) と、ハンターに知らせます。</p>
+                </div>
+            </div>
+        </div>
+
+        <h2 style="margin-bottom: 40px;" class="h2-tit">その不要品が、鳥猟犬の救済につながります</h2>
+        <div class="row">
+            <div class="col-md-8">
+                <p style="margin-top: 0px;">一部の心無いハンターにより怪我を負った、繁殖年齢が過ぎた、年老いた、病気になったなど様々な理由で鳥猟犬が山中や河川敷に捨てられています。<br>
+                    11月から狩猟シーズンが始まると、猟で使えないと判断された猟犬の遺棄数が増加します。<br>
+                    また猟シーズン*が終わると捨てられる鳥猟犬数はさらに増加する傾向です。この問題に対応するためにも今、ご支援が必要です。<br>
+                    <small>*毎年11月15日～翌年2月15日（猟区内 毎年10月15日～翌年3月15日 または登録都道府県により異なります）</small>
+                    <br><br>
+                    「老犬となり使えなくなった」「怪我をした」「猟に向かなかった」「猟期が終わり、来年の猟期まで飼い続けるのに費用がかかる」などの理由で、飼い主自ら動物愛護センター(自治体動物収容施設)に持ち込まれる鳥猟犬もいます。<br>
+                    持ち込まれる犬は、翌日殺処分となることを承知の行為です。</p>
+            </div>
+            <div class="col-md-4">
+                <img src="img/006.jpg" alt="img" width="100%">
+                <br><br>
+                <img src="img/010.jpg" alt="img" width="100%">
+            </div>
+        </div>
+
+        <h2 style="margin-bottom: 40px;" class="h2-tit">保護犬たちかかる医療費</h2>
+        <div class="row">
+            <div class="col-md-8">
+                <p style="margin-top: 0px;">捨てられた鳥猟犬で、健康な犬はほとんどいないといっていいでしょう。
+
+                    保護時には既にフィラリア症にかかり、栄養失調で痩せこけ、脱毛や絡まった毛並みなど痛ましい姿が大半を占めます。保護した際に、既に乳腺腫瘍、子宮蓄膿症に侵されている雌犬の多いこと。無残な姿には、何度目にしても胸が詰まります。<br>
+                    新しいご家庭に繋げる条件として犬の健康状態の検査は必須です。<br>
+                    去勢･避妊費用･各種ワクチン費用。時には予想外の大掛かりな手術、長期的投薬など多額の費用が発生することがあります。</p>
+            </div>
+            <div class="col-md-4">
+                <img src="img/011.jpg" alt="img" width="100%">
+            </div>
+        </div>
+
+        <h2 style="margin-bottom: 40px;" class="h2-tit" id="001">キャンペーン概要</h2>
+        <p>
+            <strong>対象期間</strong>:
+            2022年2月1日（火）～ 2022年4月15日（金）
+        </p>
+        <p>
+            <strong>対象物品</strong>:<br>
+            <ul>
+                <li>本（コミック、ビジネス書なども含みます）</li>
+                <li>CD・DVD・Blu-ray</li>
+                <li>ゲーム（ゲーム機本体・ソフト・周辺機器）</li>
+                <li>小型家電・タブレット・スマホ</li>
+                <li>ブランド品、貴金属など</li>
+            </ul>
+            <small>※その他、さまざまな物品を一緒に寄付することができます。買取対象品の詳細は「<a
+                    href="https://www.bookoffonline.co.jp/files/sell/kaitori.html#SellKaitoriList"
+                    style="text-decoration: none; color: rgb(0, 153, 255);">ブックオフ・売れるもの一覧</a>」をご参照ください。</small><br>
+            <small>ブックオフ・売れるもの一覧 → <a href="https://www.bookoffonline.co.jp/files/sell/kaitori.html#SellKaitoriList"
+                    style="text-decoration: none; color: rgb(0, 153, 255);">https://www.bookoffonline.co.jp/files/sell/kaitori.html#SellKaitoriList</a></small>
+        </p>
+        <p>
+            <strong>参加方法</strong>:<br>
+            <ol>
+                <li>不要品を集め、段ボールなどにつめる（1品からお送りいただけます）</li>
+                <li>以下の「<a href="#sann"
+                        style="text-decoration: none; color: rgb(0, 153, 255);">無料集荷を申し込んで参加!</a>」ボタンから申込む<br>
+                    <small>※箱は2つ以上になってもかまいません</small></li>
+                <li>指定の日時に配送業者が自宅で集荷します<br>
+                    <small>※査定が終了した後、メールでブックオフから査定金額が届きます。</small><br>
+                    <small>※ブックオフオンラインへの会員登録(無料)が必要となります。</small></li>
+            </ol>
+        </p>
+
+        <div class="san">
+            <a type="button" class="btn btn-outline-info btn-lg" id="sann"
+                href="https://www.bookoffonline.co.jp/sellfund/BSfSellFundEntry.jsp?PARTNER_CD=ZW053#fundForm"
+                rel="noopener noreferrer" target="_blank">
+                無料集荷を申し込んで参加!</a>
+        </div>
+
+        <h2 style="margin-bottom: 40px;" class="h2-tit" id="002">みなさまのご支援でできること</h2>
+
+        <div class="row justify-content-around">
+            <div class="card" style="width: 18rem;">
+                <img src="img/003.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">Blu-ray1枚<br>約350円</h5>
+                    <p class="card-text" style="text-align: center;">ROYAL CANIN<br>消化器サポート<br>缶詰 1缶</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="img/002.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">書籍・コミック50冊<br>約1,000円</h5>
+                    <p class="card-text" style="text-align: center;">Hill's<br>プリスクリプションダイエット<br>2缶</p>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img src="img/hh.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title" style="text-align: center;">DVD30枚<br>約10,000円</h5>
+                    <p class="card-text" style="text-align: center;">ROYAL CANIN<br>療法食 腎臓サポート<br>1袋</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="san">
+            <a type="button" class="btn btn-outline-info btn-lg"
+                href="https://www.bookoffonline.co.jp/sellfund/BSfSellFundEntry.jsp?PARTNER_CD=ZW053#fundForm"
+                rel="noopener noreferrer" target="_blank">
+                無料集荷を申し込んで参加!</a>
+        </div>
+
+        <h2 style="margin-bottom: 40px;" class="h2-tit" id="003">よくあるご質問</h2>
+        <!--<div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Q：本数冊、CD数枚でも送れますか？</h5>
+                <p class="card-text">不要品は一点からお送りいただけます!<br>
+                    一つ一つは小さな力だったとしても、全国から集まれば、大きなご支援になります。集荷は無料で、ご自宅まで配送業者が集荷に伺います。
+                </p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Q：領収書や、活動の報告は届きますか？</h5>
+                <p class="card-text">不要品をお送りいただいた皆さまには、買取金額が掲載された寄付領収書と、感謝のお手紙、そしてメールでの活動報告ニュースレターをお送りいたします。</p>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Q：学校や職場から参加できますか？</h5>
+                <p class="card-text">ぜひご参加ください。箱に集めて送るだけ、送料無料ですので、お気軽に参加いただけます。また、寄付になった金額や活動報告は後日メールで届きます。</p>
+            </div>
+        </div>-->
+        <div class="accordion" id="accordionExample">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        Q：本数冊、CD数枚でも送れますか？
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                    data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        一つ一つは小さな力だったとしても、全国から集まれば、大きなご支援になります。集荷は無料で、ご自宅まで配送業者が集荷に伺います。
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        Q：学校や職場から参加できますか？
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                    data-bs-parent="#accordionExample">
+                    <div class="accordion-body">
+                        ぜひご参加ください。箱に集めて送るだけ、送料無料ですので、お気軽に参加いただけます。また、寄付になった金額や活動報告は後日メールでお届けします。
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container-m">
+            <p class="text-muted san">GUNDOG RESCUE CACI</p>
+        </div>
+    </footer>
+    <!-- popper.min.js -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+    </script>
+    <!-- bootstrap.min.js -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js"
+        integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous">
+    </script>
+</body>
+</html>
